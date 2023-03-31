@@ -39,7 +39,7 @@ const Footer = () =>{
                 <div className="right">
                     <h4>ABOUT ME</h4>
                     <p>Hasrat Jahangir</p>
-                    <p>My Name is Asif jahangir </p>
+                    <p>My Name is Asif jaha</p>
                     <p>my social media account are bellow,you can contact me </p>
                     <p>THANK YOU</p>
                     
